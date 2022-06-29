@@ -27,6 +27,6 @@ The analysis of the election show that:
 - The winner of the election was:
   - Candidate (1,2, or 3), who received "x%" of the vote and "y" number of votes.
 
-# Callenge Overview
+# Challenge Overview
 
 # Challenge Summary
